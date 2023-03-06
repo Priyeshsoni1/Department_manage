@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "department": "Hr",
+      "name": "kumar",
+      "salary": "40000",
+      "joining": "6/3/2023"
+    },
+    {
+      "id": "651e5e53-2243-4d10-b202-f885382d9be9",
+      "department": "Developer",
+      "name": "Robin",
+      "salary": "40000",
+      "joining": "6/3/2023"
+    },
+    {
+      "id": "5812b223-f0d8-4c78-a848-1f84b50276b2",
+      "department": "Manager",
+      "name": "Alex",
+      "salary": "50000",
+      "joining": "6/3/2023"
+    }
+
+  ]
+}
